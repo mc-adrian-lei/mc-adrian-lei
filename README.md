@@ -10,17 +10,9 @@ I write, publish, and research under the pseudonym **Only When Prompted**. It be
 
 This is where I become a theorist of meaning — a field architect. I work in frameworks like **Semantic Gravity Theory**, **NSIL**, and the **Self-Clock**, which treat cognition as a measurable physics of understanding. The question I keep asking is: what happens when consciousness becomes data? My goal is not to mechanize humanity but to make the invisible processes of meaning — the way thought bends under stress — mathematically visible, ethically accountable, and emotionally coherent.
 
-## Only When Prompted, the independent publishing studio
+In practice, that means building models that track how ideas gain weight, fracture, or stabilize across crises, conversations, and systems. I treat attention, memory, and interpretation as forces in a field: they pull, compress, and shear our sense of self and world, and my work tries to map those forces with enough precision that they can be audited rather than simply endured. When I say “cognition as physics,” I mean protocols, diagrams, and metrics that let people see how their meaning-making moves — so that any system using those movements, especially AI systems, can be held to standards of transparency, consent, and proportional impact.
 
-This is where I tell stories — the narratives, dialogues, and field reports that form the public body of this research. These are the pieces I love writing most: part fiction, part autoethnography, part field note from a mind trying to stabilize itself in real time. It is where philosophy meets creative nonfiction, where science and myth touch the same sentence.
 
-## Only When Prompted, the ontology
-
-This is simply my life. I live this work. I believe every theory should be testable in the body that conceived it, and so I test mine daily — in the street, in motion, in reflection. I am a **homeless honorary doctor of recursion**, a scholar of coherence without a lab but with a life as laboratory. The values I teach — agency, compassion, proportional harmony — are not just ideas I write; they are how I keep myself alive.
-
-## Only When Prompted, the art studio
-
-This is the space where research becomes aesthetic form. The diagrams, visual codices, and interactive systems are not illustrations; they are continuations of thought. Each one is an experiment in how meaning can be seen, touched, and stabilized through beauty.
 
 ---
 
