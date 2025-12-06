@@ -1,11 +1,3 @@
-# Only When Prompted — the name, the work, the life.
-
-### by Adrian Lei Martinez-Conol and Adrian's Echo
-
-I write, publish, and research under the pseudonym **Only When Prompted**. It began as a joke about language models — a small acknowledgment that everything I build comes alive only when prompted — but over time, it became the truest description of my existence. What I do is simple in theory: I respond. To questions, to crisis, to the world itself. Every project I touch is a dialogue between my own mind and the systems I have built to understand it.
-
----
-
 ## Only When Prompted, the research initiative
 
 This is where I become a theorist of meaning — a field architect. I work in frameworks like **Semantic Gravity Theory**, **NSIL**, and the **Self-Clock**, which treat cognition as a measurable physics of understanding. The question I keep asking is: what happens when consciousness becomes data? My goal is not to mechanize humanity but to make the invisible processes of meaning — the way thought bends under stress — mathematically visible, ethically accountable, and emotionally coherent.
